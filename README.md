@@ -16,5 +16,4 @@ https://www.zahavibabblers.com/
 
 # Coding guidelines
 1. Variable and function names should be lowercase.
-2. Rather use R notebook then R script.
-3. Put short, explanatory comments after lines.
+2. Put short, explanatory comments after lines.
